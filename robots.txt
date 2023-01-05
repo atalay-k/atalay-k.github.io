@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://atalay-k.github.io/sitemap.xml
