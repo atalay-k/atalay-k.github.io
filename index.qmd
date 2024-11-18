@@ -1,0 +1,23 @@
+---
+title: "Author"
+image: profile.JPG
+about:
+  id: hero-heading
+  template: trestles
+  image-shape: rectangle
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/kubra-atalay-kabasakal-218a7131/
+    - icon: github
+      text: Github
+      href: https://github.com/atalay-k
+---
+
+::: {#hero-heading}
+
+Kübra Atalay Kabasakal, Ph.D.
+
+
+:::
+
