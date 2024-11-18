@@ -1,0 +1,33 @@
+---
+title: "Kübra Atalay Kabasakal, Ph.D."
+
+---
+
+
+
+::: {#hero-heading}
+
+...
+
+
+
+## Eğitim 
+
+
+
+
+## Deneyim
+
+....
+:::
+
+
+
+
+
+:::callout-note
+## Template for about page
+
+It is possible to use different templates for the About page. Check this [link](https://quarto.org/docs/websites/website-about.html) to find out more.
+
+:::

@@ -13,14 +13,11 @@ website:
 
   navbar:
     left:
-      - href: index.qmd
-        text: Home
+      - href: yayinlar.qmd
+        text: Yayınlar
 
-      - href: about.qmd
-        text: Projects
-
-      - href: about.qmd
-        text: About
+      - href: dersler.qmd
+        text: Ders Materyalleri
 
 format:
   html:
