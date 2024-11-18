@@ -4,17 +4,11 @@ project:
 
 website:
   page-navigation: true
-<<<<<<< HEAD
   title: "Merhaba :)"
+
 
   page-footer:
     left: "&copy; Copyright 2024, Author"
-=======
-  title: "Hello :)"
-
-  page-footer:
-    left: "&copy; Copyright 2022, Author"
->>>>>>> 64111b1178ada3b7940825277e6e97c20e69672d
     right: "This page is built with ❤️ and [Quarto](https://quarto.org/)."
 
   navbar:
