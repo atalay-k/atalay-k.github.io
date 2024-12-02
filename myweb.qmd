@@ -6,9 +6,6 @@ title: "Kubra Atalay Kabasakal"
 
 ::: {#hero-heading}
 
-...
-
-
 
 
 :::
