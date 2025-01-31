@@ -17,7 +17,7 @@ website:
         text: Yayınlar
 
       - href: dersler.qmd
-        text: Ders Materyalleri
+        text: Sunular
 
 format:
   html:
